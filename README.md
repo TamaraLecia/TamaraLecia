@@ -55,7 +55,7 @@ Graduada em Análise e Desenvolvimento de Sistemas pelo o Instituto Federal de C
 <img src="https://github.com/user-attachments/assets/94b1f6d7-c6c2-43b7-83bc-dc030953523c" alt="Aprendizado contínuo" height="40" width="40"/> Aprendizado contínuo
 <br>
 <br>
-<img src="https://github.com/user-attachments/assets/13b5dd8f-2d30-4c9b-8768-81ba7ae504ee" width="40" height="40" alt="Curiosidade"/> Curiosidade
+<img src="https://github.com/user-attachments/assets/13b5dd8f-2d30-4c9b-8768-81ba7ae504ee" width="40" height="40" alt="Curiosidade"/> Curiosidade intelectual
 
 <h2>Analytics & Highlights</h2>
 
