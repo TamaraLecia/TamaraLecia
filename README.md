@@ -26,7 +26,7 @@ Graduada em Análise e Desenvolvimento de Sistemas pelo o Instituto Federal de C
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="c" width="50" height="40"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/sqlite/original-wordmark.svg" alt="SQLite"  width="60" height="70"/> 
   </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" alt="DjangoRestFramework"  width="100" height="70"/> 
