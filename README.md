@@ -29,7 +29,7 @@ Graduada em Análise e Desenvolvimento de Sistemas pelo o Instituto Federal de C
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="40"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/sqlite/original-wordmark.svg" alt="SQLite"  width="60" height="70"/> 
   </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.django-rest-framework.org/img/logo-light.png#only-light" alt="SQLite"  width="40" height="40"/> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" alt="DjangoRestFramework"  width="100" height="70"/> 
   </a>
 </p>
 
